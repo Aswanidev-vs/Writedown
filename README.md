@@ -38,5 +38,3 @@ Follow the menu prompts to add, edit, list, or delete your notes.
 MIT
 
 ---
-
-Created by Aswanidev-vs
