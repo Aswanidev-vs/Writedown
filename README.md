@@ -4,7 +4,7 @@ WriteDown is a simple, fast, and intuitive CLI note-taking app written in Go. Cr
 
 # Compatibility
 
-WriteDown currently works best on Linux/Unix-based shells (e.g., bash, zsh). Windows support is limited due to command differences, but improvements are planned for future releases.
+WriteDown currently works best on Linux/Unix-based shells (e.g., bash, zsh). Windows support is limited due to the differences in the compatibility of running linux commands, but improvements are planned for future releases.
 
 ## Features
 
